@@ -7,3 +7,7 @@ h1 {
     text-align: center;
     padding: 10px;
 }
+pre {
+    border: 10px #eee transparent;
+    text-align: center;
+}
